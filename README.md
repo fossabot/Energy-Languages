@@ -1,4 +1,6 @@
 # Energy Efficiency in Programming Languages
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femielbeinema%2FEnergy-Languages.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Femielbeinema%2FEnergy-Languages?ref=badge_shield)
+
 #### Checking Energy Consumption in Programming Languages Using the _Computer Language Benchmark Game_ as a case study.
 
 ### What is this?
@@ -150,3 +152,7 @@ Main contributors: [@Marco Couto](http://github.com/MarcoCouto) and [@Rui Pereir
 
 [The Computer Language Benchmark Game](http://benchmarksgame.alioth.debian.org)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femielbeinema%2FEnergy-Languages.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Femielbeinema%2FEnergy-Languages?ref=badge_large)
